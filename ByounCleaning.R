@@ -77,4 +77,5 @@ bdf <- function(x){
   print(sd(x$fdatd),na.rm=TRUE)
 }
 bdf(bd)
+"test"
 
